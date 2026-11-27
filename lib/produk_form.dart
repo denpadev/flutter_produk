@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tester/produk_detail.dart';
+import 'package:flutter_produk/produk_detail.dart';
 
 class ProdukForm extends StatefulWidget {
   const ProdukForm({Key? key}) : super(key: key);
